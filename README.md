@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**GtDavide01/GtDavide01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966)
 
-Here are some ideas to get you started:
+# Hi , I'm Davide Fiorini  👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Junior Full Stack Web Developer**
+
+- 🌱 I’m currently learning REACT 
+- 🔭 Il mio account linkedin :  https://www.linkedin.com/in/davide-fiorini/
+- 📫 Come puoi contattarmi :  davidefiorini01@gmail.com 
+
+### Connect with me: 
+[![Linkedin](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAACCCAMAAAC93eDPAAAAYFBMVEUAd7f///8AdLb3+/1hm8lTksRRj8MAcrUAa7K81eeyzOJyps4AcLRXlMUAbrMAaLDc6PKrxuBtocs5i8EKe7mYu9nO4O3i7fXr9Pk7hL2Fr9N8qM+NtNZCicCfwNyoyOAvhqi+AAADoUlEQVR4nO2c25KyOhCFkwYNYAwHEUFl8/5v+aMzjAodg7HosKuyLuYmKfjsnDorZBj/UZYXh5KRqTwUefb7avYDUIACoCNgDPoXFtkDoQNJ+fpBEroB4Zi6ALgpPf4gdM4IeobuhpCR9oGxIOsRCif9YJAsOHMbhFsYWK7cIqicFa6jULCDa4QDI5yVcTkHeC8hlVBSuHt/KnZ5Eif5BVInFKCKig+qdoq+y4r2AXBfy1vqGVQVAX9VsKOdwKIzn+pKuZz2CwemHV1bQDluhd+2KMn6pOpQAs4TqjBAiwehV0sUBvWfjoB3RKNCnbQIJxoCaLTtwAOaloBQS8A5TXYDlzcIO5L1ag0I+NRI2hD6aYEHe5qJAWotwokoy0tjLUIc0SDAXosQUiVwUGkIKrKVUmw0CESd8SbNQpUQ9YS70B5Z0fogkExHA6PN40FeRwRHQb6TUM1zY8QtZT8YBBE7x1ld11l8ZZGj/T8IycqyZFI6NiC8vhL0Erc/3zzgRR8VSwVlc9jsw/2mbZhQFssbqHL/qubZYYDoMCpun7qsiNglqU5D5hNkVR6qjw2KcrpYVs3fQ6DMJsX14NtF7Dot7WeWMPooFCm2XGd/s5PAius7goBOl/edwg8iAQ36jO3vEzTZ5aYvlqF+K9ZHopkdCMAThnBA2KIIfUp1P1x4o7qduym1RJCRPut8VFoUIcqNBDyYyWCHsBmv76jqeTtjO4Srfgv0rNOs5MsOYa6Oc5piWQTezGiKhRHm2EULIwQzwrAwAj+aw7A0wsk9wgybYmmEGS2xOIJ5b/gdQnYs9vtwl+jNGs6NG6NvEKptpG5Jq4jUTl/NeDT6BcI1fcohlc4r4WdT7mKPcH7pZ8B0DLlpnbBGSEY9Xetnx0shBJOxpjSZnPF7BVuE8/S3SbxmbSCwRagRY1SXTpo8VEuEDhntEjtu5OacwRIhRB6rq2uaGOwQcINa42gvg1ChAy3Ft1dYxL5HwL/KQbennBeG6dEOARmSTDsklkHAbfpoaqKuBMF0yOURPIJH8AgewSN4BI/gETyCR/AIHsEjeIT/O8LBCgG1jywRmMLeEfwVl6iLhruZGuPReBogsK+AH16Swh6rNdexbzoS84cMqk3iVyXbJ0NNbeOxCt1BC0THSeXLnHNrkGPB++I3P2tS1+E1KL2c3x8r13CNbwWXGVdwpXMFF1tXcL13DZecV3DVew0X3tdw7X8N//yAO/0XEP8AF8xDFrjLQ2YAAAAASUVORK5CYII=)](https://www.linkedin.com/in/davide-fiorini/)
+
