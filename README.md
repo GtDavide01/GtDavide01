@@ -10,5 +10,10 @@
 - 📫 Come puoi contattarmi :  davidefiorini01@gmail.com 
 
 ### Connect with me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/davide-fiorini/)
+[![Linkedin](https://cdn-icons-png.flaticon.com/32/3536/3536505.png)](https://www.linkedin.com/in/davide-fiorini/)
+[![Linkedin](https://cdn-icons-png.flaticon.com/32/2111/2111463.png)](https://www.instagram.com/davidefiorini_/)
+
+### Languages and tools: 
+![HTML](https://cdn-icons-png.flaticon.com/32/1051/1051277.png)
+![CSS](https://cdn-icons-png.flaticon.com/32/732/732190.png)
 
