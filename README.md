@@ -5,25 +5,40 @@
 
 ## **Junior Full Stack Web Developer**
 
-- 🌱 Attualmente sto studiando REACT 
+- 🌱 Attualmente sto studiando ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 - 🔭 Il mio account linkedin :  https://www.linkedin.com/in/davide-fiorini/
 - 📫 Come puoi contattarmi :  davidefiorini01@gmail.com 
 
-### Connect with me: 
+## 💼 Technical Skills
+### 💥 Code 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+</br>
+### 🔋 Framework 
+![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?flat&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+</br>
+### ⭐ Tools
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
+
+## Connect with me: 
 [![Linkedin](https://cdn-icons-png.flaticon.com/32/3536/3536505.png)](https://www.linkedin.com/in/davide-fiorini/)
 [![Linkedin](https://cdn-icons-png.flaticon.com/32/2111/2111463.png)](https://www.instagram.com/davidefiorini_/)
 
-### Languages and tools: 
-![CSS](https://cdn-icons-png.flaticon.com/32/732/732190.png)
-![HTML](https://cdn-icons-png.flaticon.com/32/1051/1051277.png)
-![SASS](https://cdn-icons-png.flaticon.com/32/919/919831.png)
-![BOOTSTRAP](https://cdn-icons-png.flaticon.com/32/5968/5968672.png)
-![JAVASCRIPT](https://cdn-icons-png.flaticon.com/32/5968/5968292.png)
-![VUE](https://assets.codepen.io/t-1003/internal/avatars/teams/default.png?fit=crop&format=auto&height=32&version=1513627136&width=32)
-![PHP](https://cdn-icons-png.flaticon.com/32/919/919830.png)
-![LARAVEL](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/32px-Laravel.svg.png)
-![MYSQL](https://cdn-icons-png.flaticon.com/32/1199/1199128.png)
-![NODEJS](https://cdn-icons-png.flaticon.com/32/5968/5968322.png)
-![POSTMAN](https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s32-c-k-c0x00ffffff-no-rj)
-![GITHUB](https://cdn-icons-png.flaticon.com/32/4494/4494748.png)
+
 
