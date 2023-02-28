@@ -1,13 +1,29 @@
 
 ![Alt Text](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-# Hi , I'm Davide Fiorini  👋
+<h1 align="center">
+Hi there, I'm Davide Fiorini  👋
+</h3>
 
-## **Junior Full Stack Web Developer**
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻
+</h2> 
+
+La mia passione per la programmazione nasce con i videogiochi e prosegue attraverso una scuola tecnico industriale dove ho studiato informatica per 5 anni e gettato le basi della programmnazione su java, php e mysql. Concluso il percorso scolastico ero deciso e determinato nel portare avanti questa mia passione, così ho intrapreso una nuova strada con Boolean, che mi ha permesso di gettare delle basi ancora più solide sulla programmazione. Nello specifico lato front-end e back-end con le tecnologie più avanzate: HTML, CSS, Sass, Bootstrap, Javascript, PHP, Laravel, Mysql. Ad oggi mi ritengo soddisfatto del mio percorso, ma sono pronto ad imbattermi in nuove tecnologie!
+
+
 
 - 🌱 Attualmente sto studiando ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 - 🔭 Il mio account linkedin :  https://www.linkedin.com/in/davide-fiorini/
 - 📫 Come puoi contattarmi :  davidefiorini01@gmail.com 
+
+
+## 🤝 Connect with me:
+[![Linkedin](https://cdn-icons-png.flaticon.com/32/3536/3536505.png)](https://www.linkedin.com/in/davide-fiorini/)
+[![Linkedin](https://cdn-icons-png.flaticon.com/32/2111/2111463.png)](https://www.instagram.com/davidefiorini_/)
+
+
+
 
 ## 💼 Technical Skills
 ### 💥 Code 
@@ -34,11 +50,15 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GtDavide01)](https://github.com/GtDavide01)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GtDavide01&layout=compact)](https://github.com/GtDavide01)
 
 
-## Connect with me: 
-[![Linkedin](https://cdn-icons-png.flaticon.com/32/3536/3536505.png)](https://www.linkedin.com/in/davide-fiorini/)
-[![Linkedin](https://cdn-icons-png.flaticon.com/32/2111/2111463.png)](https://www.instagram.com/davidefiorini_/)
+
+
 
 
 
