@@ -1,5 +1,5 @@
 
-![Alt Text](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Alt Text](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">
 Hi there, I'm Davide Fiorini  👋
