@@ -6,7 +6,7 @@ Hi there, I'm Davide Fiorini  👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻
+I'm a Junior Full-Stack Web Developer 💻
 </h2> 
 
 La mia passione per la programmazione nasce con i videogiochi e prosegue attraverso una scuola tecnico industriale dove ho studiato informatica per 5 anni e gettato le basi della programmnazione su java, php e mysql. Concluso il percorso scolastico ero deciso e determinato nel portare avanti questa mia passione, così ho intrapreso una nuova strada con Boolean, che mi ha permesso di gettare delle basi ancora più solide sulla programmazione. Nello specifico lato front-end e back-end con le tecnologie più avanzate: HTML, CSS, Sass, Bootstrap, Javascript, PHP, Laravel, Mysql. Ad oggi mi ritengo soddisfatto del mio percorso, ma sono pronto ad imbattermi in nuove tecnologie!
